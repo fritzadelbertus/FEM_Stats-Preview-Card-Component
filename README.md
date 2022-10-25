@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/fritzadelbertus/FEM_Stats-Preview-Card-Component)
+- Live Site URL: [Github Page](https://fritzadelbertus.github.io/FEM_Stats-Preview-Card-Component/)
 
 ## My process
 
